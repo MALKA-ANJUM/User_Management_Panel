@@ -1,6 +1,6 @@
 # Full-Stack Laravel & React Project
 
-A full-stack application built with Laravel (backend) and React  (frontend), demonstrating service layer architecture patterns including repository patterns, role-based access control (RBAC), queue-based job processing, and automated task scheduling.
+A full-stack application built with Laravel (backend) and React  (frontend), demonstrating service layer architecture patterns including repository patterns, role-based access control , queue-based job processing, and automated task scheduling.
 
 ## 🚀 Features
 
