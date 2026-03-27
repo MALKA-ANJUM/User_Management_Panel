@@ -1,6 +1,6 @@
-# Interview Project - Full-Stack User Management System
+# Full-Stack Laravel & React Project
 
-A comprehensive full-stack application built with Laravel 11 (backend) and React 19 (frontend), demonstrating enterprise-level architecture patterns including service layers, repository patterns, role-based access control (RBAC), queue-based job processing, and automated task scheduling.
+A full-stack application built with Laravel (backend) and React  (frontend), demonstrating service layer architecture patterns including repository patterns, role-based access control , queue-based job processing, and automated task scheduling.
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@ A comprehensive full-stack application built with Laravel 11 (backend) and React
 ## 🛠️ Tech Stack
 
 ### Backend
-- **Laravel 11**: PHP framework for robust backend development
+- **Laravel 10**: PHP framework for robust backend development
 - **Laravel Sanctum**: API token authentication
 - **Spatie Laravel Permission**: Role-based access control
 - **Eloquent ORM**: Database interactions
@@ -188,31 +188,19 @@ interview-project/
 ### Backend Tests
 ```bash
 cd backend
-php artisan test
+php artisan serve
 ```
 
 ### Frontend Tests
 ```bash
 cd frontend
-npm test
+npm run dev
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For questions or issues, please open an issue in the repository or contact the development team.
 
 ---
 
-**Note**: This project is designed for educational and demonstration purposes, showcasing modern full-stack development practices with Laravel and React.
+##  By Malka Anjum,
+
+Full Stack Developer.
+
+
